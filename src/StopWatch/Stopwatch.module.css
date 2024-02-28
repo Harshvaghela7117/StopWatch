@@ -1,0 +1,11 @@
+.heading{
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
